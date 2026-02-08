@@ -8,4 +8,6 @@ keys = {
 
     ["KEY-GHOW1VMM"] = 1770622653, -- User: 202005022
 
+    ["KEY-EOXKF9NM"] = 2634536276, -- User: gra (10000 Days)
+
 }
