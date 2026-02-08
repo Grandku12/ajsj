@@ -9,4 +9,6 @@ keys = {
 
     ["GRANDKEY-PREMIUM-JLYXJ3LM"] = 1782033948, -- User: ghello1231@gmail.com (133 Days) | 21/6/2026
 
+    ["GRANDKEY-FREE-NZDFB2SM"] = 1770649624, -- User: ghello1231@gmail.com | 9/2/2026
+
 }
