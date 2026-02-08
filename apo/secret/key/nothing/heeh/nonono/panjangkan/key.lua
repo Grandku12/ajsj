@@ -12,4 +12,6 @@ keys = {
 
     ["GRANDKEY-PREMIUM-TV5C9EAM"] = 1783155653, -- User: LN (146 Days) | 4/7/2026
 
+    ["Auto"] = 1770627663, -- Owner Generated (1 Days) | 9/2/2026
+
 }
