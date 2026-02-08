@@ -10,7 +10,6 @@ keys = {
 
     ["KEY-EOXKF9NM"] = 2634536276, -- User: gra (10000 Days)
 
-    ["GRANDKEY-PREMIUM-TV5C9EAM"] = 1783155653, -- User: LN (146 Days) | 4/7/2026
 
 
 
